@@ -25,5 +25,16 @@ html, body {
       right: 15px; }
     .container header span {
       margin-left: 45px; }
+  .container section {
+    flex: 1;
+    overflow: auto;
+    background: #cccccc; }
+    .container section .clock {
+      width: 100%;
+      height: 400px;
+      text-align: center;
+      line-height: 400px;
+      color: #000;
+      background: wheat; }
 
 /*# sourceMappingURL=style.css.map */
